@@ -1,0 +1,89 @@
+Xpath:---->
+
+	Xpath is a unique locator builder in selenium. Based on html
+	tag position xpath target object location....
+	
+	Xpath available in two types
+
+	1.Absolute xpath           --->index
+	2.Relative xpath	     --->attribute
+	
+	
+	
+1.Absolute Xpath:--->
+	
+	Absolute xpath is usefull to target object using tag position. We follow
+	absolute when object properties dynamically changing but object position
+	 should be static at page...
+	 
+	 Note:---> In Real time absolute xpath is not prefferable because if client
+		change requirement or enhance requirement position automatically change...
+	 
+Example syntax:--->
+		/html/body/div/input[1]
+
+		Nodes in Xpath:--->
+				/   ---> RootNode
+				// ---> ChildNode
+				[ ]  -->  tag index Position
+				/  ---> child position to target   [After parent node] 
+				
+				
+Relative Xpath:--->
+
+	
+	relative xpath is usefull to target object using attribute names. we use 
+	relative xpath when object dynamically changing it's position with in page
+
+				
+Syntax for relative xpath:--->
+
+		.//tagname[@propertyname='propertyvalue']
+
+		.---> Current node
+	    //--> Current node
+		* --> All Elements
+		tagname--> Select only related tagelements
+		[]--> braces use to target single attribute
+		@ --> target only attributes with in innerhtml
+		propertyname--> Any unique property
+		property-value----?  value w.r.t attribute.
+		
+==================================================================
+Relative xpath categorized into two types.
+
+				1. Xpath Attribute
+				2. Xpath text
+				
+				
+HtmlSource:-->
+
+		<div  id="Src_btn" class="Info logo" > Create file </div>	
+		
+		
+		
+		Attribute Syntax:-->
+					
+					//tagname[@propertyname='propertyvalue']
+					
+					
+					By.xpath("//div[@id='Src_btn']")
+					
+		
+		text syntax:-->		
+				
+				    //tagname[text()='Element text']
+					//tagname[.='Element text']
+				
+				
+					By.xpath("//div[text()='Create file']")
+					By.xpath("//div[.='Create file']")
+					
+==========================================================================
+				
+				
+				
+				
+				
+				
+	 

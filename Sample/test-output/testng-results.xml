@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="19" passed="19">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1046" started-at="2018-10-10T05:59:46Z" finished-at="2018-10-10T05:59:47Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1046" started-at="2018-10-10T05:59:46Z" finished-at="2018-10-10T05:59:47Z">
+      <class name="framework_testng.Dataprovider.ReadData_WithExcel_integration">
+        <test-method status="PASS" signature="testlogin(java.lang.String, java.lang.String)[pri:0, instance:framework_testng.Dataprovider.ReadData_WithExcel_integration@59fa1d9b]" name="testlogin" duration-ms="0" started-at="2018-10-10T05:59:47Z" data-provider="Read_Excel" finished-at="2018-10-10T05:59:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Username]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testlogin -->
+        <test-method status="PASS" signature="testlogin(java.lang.String, java.lang.String)[pri:0, instance:framework_testng.Dataprovider.ReadData_WithExcel_integration@59fa1d9b]" name="testlogin" duration-ms="17" started-at="2018-10-10T05:59:47Z" data-provider="Read_Excel" finished-at="2018-10-10T05:59:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Darshan6]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Selenium6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testlogin -->
+        <test-method status="PASS" signature="testlogin(java.lang.String, java.lang.String)[pri:0, instance:framework_testng.Dataprovider.ReadData_WithExcel_integration@59fa1d9b]" name="testlogin" duration-ms="0" started-at="2018-10-10T05:59:47Z" data-provider="Read_Excel" finished-at="2018-10-10T05:59:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Darshan4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Selenium4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testlogin -->
+        <test-method status="PASS" signature="testlogin(java.lang.String, java.lang.String)[pri:0, instance:framework_testng.Dataprovider.ReadData_WithExcel_integration@59fa1d9b]" name="testlogin" duration-ms="0" started-at="2018-10-10T05:59:47Z" data-provider="Read_Excel" finished-at="2018-10-10T05:59:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Darshan5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Selenium5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testlogin -->
+        <test-method status="PASS" signature="testlogin(java.lang.String, java.lang.String)[pri:0, instance:framework_testng.Dataprovider.ReadData_WithExcel_integration@59fa1d9b]" name="testlogin" duration-ms="0" started-at="2018-10-10T05:59:47Z" data-provider="Read_Excel" finished-at="2018-10-10T05:59:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Darshan3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Selenium3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testlogin -->
+        <test-method status="PASS" signature="testlogin(java.lang.String, java.lang.String)[pri:0, instance:framework_testng.Dataprovider.ReadData_WithExcel_integration@59fa1d9b]" name="testlogin" duration-ms="0" started-at="2018-10-10T05:59:47Z" data-provider="Read_Excel" finished-at="2018-10-10T05:59:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Darshan1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Selenium1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testlogin -->
+        <test-method status="PASS" signature="testlogin(java.lang.String, java.lang.String)[pri:0, instance:framework_testng.Dataprovider.ReadData_WithExcel_integration@59fa1d9b]" name="testlogin" duration-ms="0" started-at="2018-10-10T05:59:47Z" data-provider="Read_Excel" finished-at="2018-10-10T05:59:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Darshan2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Selenium2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testlogin -->
+        <test-method status="PASS" signature="testlogin(java.lang.String, java.lang.String)[pri:0, instance:framework_testng.Dataprovider.ReadData_WithExcel_integration@59fa1d9b]" name="testlogin" duration-ms="0" started-at="2018-10-10T05:59:47Z" data-provider="Read_Excel" finished-at="2018-10-10T05:59:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Darshan7]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Selenium7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testlogin -->
+        <test-method status="PASS" signature="testlogin(java.lang.String, java.lang.String)[pri:0, instance:framework_testng.Dataprovider.ReadData_WithExcel_integration@59fa1d9b]" name="testlogin" duration-ms="0" started-at="2018-10-10T05:59:47Z" data-provider="Read_Excel" finished-at="2018-10-10T05:59:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Darshan12]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Selenium12]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testlogin -->
+        <test-method status="PASS" signature="testlogin(java.lang.String, java.lang.String)[pri:0, instance:framework_testng.Dataprovider.ReadData_WithExcel_integration@59fa1d9b]" name="testlogin" duration-ms="0" started-at="2018-10-10T05:59:47Z" data-provider="Read_Excel" finished-at="2018-10-10T05:59:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Darshan9]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Selenium9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testlogin -->
+        <test-method status="PASS" signature="testlogin(java.lang.String, java.lang.String)[pri:0, instance:framework_testng.Dataprovider.ReadData_WithExcel_integration@59fa1d9b]" name="testlogin" duration-ms="0" started-at="2018-10-10T05:59:47Z" data-provider="Read_Excel" finished-at="2018-10-10T05:59:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Darshan11]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Selenium11]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testlogin -->
+        <test-method status="PASS" signature="testlogin(java.lang.String, java.lang.String)[pri:0, instance:framework_testng.Dataprovider.ReadData_WithExcel_integration@59fa1d9b]" name="testlogin" duration-ms="16" started-at="2018-10-10T05:59:47Z" data-provider="Read_Excel" finished-at="2018-10-10T05:59:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Darshan13]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Selenium13]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testlogin -->
+        <test-method status="PASS" signature="testlogin(java.lang.String, java.lang.String)[pri:0, instance:framework_testng.Dataprovider.ReadData_WithExcel_integration@59fa1d9b]" name="testlogin" duration-ms="0" started-at="2018-10-10T05:59:47Z" data-provider="Read_Excel" finished-at="2018-10-10T05:59:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Darshan10]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Selenium10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testlogin -->
+        <test-method status="PASS" signature="testlogin(java.lang.String, java.lang.String)[pri:0, instance:framework_testng.Dataprovider.ReadData_WithExcel_integration@59fa1d9b]" name="testlogin" duration-ms="0" started-at="2018-10-10T05:59:47Z" data-provider="Read_Excel" finished-at="2018-10-10T05:59:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Darshan8]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Selenium8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testlogin -->
+        <test-method status="PASS" signature="testlogin(java.lang.String, java.lang.String)[pri:0, instance:framework_testng.Dataprovider.ReadData_WithExcel_integration@59fa1d9b]" name="testlogin" duration-ms="0" started-at="2018-10-10T05:59:47Z" data-provider="Read_Excel" finished-at="2018-10-10T05:59:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Darshan14]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Selenium14]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testlogin -->
+        <test-method status="PASS" signature="testlogin(java.lang.String, java.lang.String)[pri:0, instance:framework_testng.Dataprovider.ReadData_WithExcel_integration@59fa1d9b]" name="testlogin" duration-ms="0" started-at="2018-10-10T05:59:47Z" data-provider="Read_Excel" finished-at="2018-10-10T05:59:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Darshan16]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Selenium16]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testlogin -->
+        <test-method status="PASS" signature="testlogin(java.lang.String, java.lang.String)[pri:0, instance:framework_testng.Dataprovider.ReadData_WithExcel_integration@59fa1d9b]" name="testlogin" duration-ms="0" started-at="2018-10-10T05:59:47Z" data-provider="Read_Excel" finished-at="2018-10-10T05:59:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Darshan15]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Selenium15]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testlogin -->
+        <test-method status="PASS" signature="testlogin(java.lang.String, java.lang.String)[pri:0, instance:framework_testng.Dataprovider.ReadData_WithExcel_integration@59fa1d9b]" name="testlogin" duration-ms="0" started-at="2018-10-10T05:59:47Z" data-provider="Read_Excel" finished-at="2018-10-10T05:59:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Darshan18]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Selenium18]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testlogin -->
+        <test-method status="PASS" signature="testlogin(java.lang.String, java.lang.String)[pri:0, instance:framework_testng.Dataprovider.ReadData_WithExcel_integration@59fa1d9b]" name="testlogin" duration-ms="0" started-at="2018-10-10T05:59:47Z" data-provider="Read_Excel" finished-at="2018-10-10T05:59:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Darshan17]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Selenium17]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testlogin -->
+      </class> <!-- framework_testng.Dataprovider.ReadData_WithExcel_integration -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

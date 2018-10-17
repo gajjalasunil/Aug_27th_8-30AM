@@ -1,0 +1,82 @@
+Variable:-->
+	Variable is a temp location. It store single value.
+	In java program to assign value to variable we need to
+	define Datatype.
+	
+	DataType:-->
+			Datatype alot memory to varirable..
+			
+			
+			int a=100;
+			
+			int --> Datatype  [Only accept Numbers to store]
+			a   --> variable name  [userdefined]
+			100 --> value we must define w.r.t datatype.
+			
+	======================================================
+	In Java programming Datatype available in 2 types.
+		1. Primitive data type
+		2. Non-primitive datatype
+		
+	
+	List of Primitive datatypes.
+	
+			byte
+			short
+			int
+			long
+			char
+			boolean
+			float
+			double
+			
+			
+	List of Non-primitive datatypes
+	
+			String
+			Arras ------etc
+===========================================================>
+	
+	int:-->
+			=> Numeric Datatype only accept Numbers to store
+			=> Default value is 0 
+			
+			int records=10023;
+			
+			Example:-->
+						int a=100;
+						int b=200;
+						int c=a+b;
+						System.out.println(c);
+==========================================================
+boolean;--> 
+			=> Accept only boolean value true/false
+			=> Single bit datatype
+			=> Default value is  <--false-->
+			
+============================================================
+String:-->
+		  => String is non-primitive datatype it store
+		       data in characters.
+		  => Default value is null
+		  
+		  String name="Mindq";
+		  String address="#310, Dilsukhnagar, Chaitanyapuri";
+		  String Mobile="9030248855";
+================================================================
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+	
+			
+			
+			
+			
+			
+	
+	
+				
