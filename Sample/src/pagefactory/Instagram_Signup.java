@@ -29,7 +29,7 @@ public class Instagram_Signup
 	WebElement Navigation_footer;
 	
 	@FindBy(how=How.TAG_NAME,using="a")
-	List<WebElement> Nav_links;
+	List<WebElement> Navigation_links;
 	
 	
 	/*
